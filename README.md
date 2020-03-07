@@ -1,4 +1,4 @@
-<h1 align="center">:watch: Analog Clock with JavaScripte</h1>
+<h1 align="center">:watch: Analog Clock with JavaScript</h1>
 <p align="center">Relógio Analógico construído usando HTML, CSS e JavaScript.</p>
 
 <p align="center">
